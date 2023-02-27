@@ -4,7 +4,7 @@
 - 💬 Talk to me about mechanical keyboards ⌨, software automation, poetry and art
 - 💞️ I’m looking to collaborate on open source projects
 - 😄 Pronouns: https://pronoun.is/they
-- 📫 How to reach me - at khadersyed.com
+- 📫 Reach me on <a href="https://todon.eu/@khadersyed" rel="me">(Mas)todon</a>
 
 <!---
 khadersyed/khadersyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
