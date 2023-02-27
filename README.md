@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on product design, data engineering, and designing resilient systems
 - 💬 Talk to me about mechanical keyboards ⌨, software automation, poetry and art
 - 💞️ I’m looking to collaborate on open source projects
-- 😄 Pronouns: https://pronoun.is/they
 - 📫 Reach me on <a href="https://todon.eu/@khadersyed" rel="me">(Mas)todon</a>
 
 <!---
